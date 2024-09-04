@@ -1,3 +1,5 @@
+// this is node.js but im too stupid to convert this shi into github (lord help me)
+
 require('dotenv').config();
 const { Client, GatewayIntentBits, ActionRowBuilder, ButtonBuilder, EmbedBuilder, REST, Routes, ButtonStyle } = require('discord.js');
 const mongoose = require('mongoose');
