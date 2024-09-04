@@ -6,3 +6,5 @@ According to that person, he said that this thing is still unfinished, AFAIK &am
 I'll never let this piece of media lost 🙏
 
 (Also, ignore the "Naeryla" thing. It's the name of our old RP & I'm too lazy to change it...)
+
+And also, I'm planning to revamp the code soon.
